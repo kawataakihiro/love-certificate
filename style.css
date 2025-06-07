@@ -1,0 +1,41 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: linear-gradient(to right, #ffeef2, #fffaf0);
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+.container {
+  padding: 20px;
+}
+input {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  width: 200px;
+}
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #ff69b4;
+  border: none;
+  color: white;
+  font-size: 16px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.cat-img {
+  width: 150px;
+  margin: 20px 0;
+}
+.certificate {
+  margin-top: 30px;
+  padding: 20px;
+  border: 2px dashed #ffb6c1;
+  background-color: #fff0f5;
+  border-radius: 15px;
+}
+.hidden {
+  display: none;
+}
